@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "login": "xolambda",
+  "seed": "#6A729D",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "projects",
+    "stack",
+    "stats",
+    "socials",
+    "wave",
+    "buttons",
+    "about",
+    "streak"
+  ],
+  "hidden": [
+    "streak",
+    "buttons",
+    "wave",
+    "socials",
+    "about"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "lambda",
+    "subtitle": "\"Everyone's a captain Kirk\" - Nena, 99 Luftballons",
+    "typing": true,
+    "avatarShape": "sunny",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "United Kingdom"
+      },
+      {
+        "icon": "code",
+        "label": "Python · Ruby · Lua"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer"
+      },
+      {
+        "icon": "terminal",
+        "label": "CLI enthusiast"
+      },
+      {
+        "icon": "brand:opensourceinitiative",
+        "label": "Open Source fanatic"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:lua",
+            "label": "Lua"
+          },
+          {
+            "icon": "brand:ruby",
+            "label": "Ruby"
+          },
+          {
+            "icon": "brand:c",
+            "label": "C"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:awesomewm",
+            "label": "AwesomeWM"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:bsd",
+            "label": "BSD"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Android"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
