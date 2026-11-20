@@ -1,17 +1,25 @@
 {
- "key": "2d8f86d2",
+ "key": "d1a4cf4b",
  "stars": 0,
- "contributions": 12,
+ "contributions": 14,
  "repos": 3,
  "followers": 0,
  "languages": [
   [
    "C",
-   96765
+   30241
   ],
   [
    "Python",
    23987
+  ],
+  [
+   "Assembly",
+   928
+  ],
+  [
+   "Linker Script",
+   295
   ]
  ],
  "days": [
@@ -111,12 +119,12 @@
     "today": false
    },
    {
-    "c": 8,
+    "c": 2,
     "day": 19,
     "today": false
    },
    {
-    "c": 0,
+    "c": 8,
     "day": 20,
     "today": true
    },
@@ -124,15 +132,15 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 2
  },
  "pins": [],
  "all": [
   {
-   "name": "phi-lang",
-   "url": "https://github.com/xolambda/phi-lang",
-   "text": "A Vaguely C Like Language",
+   "name": "telOS",
+   "url": "https://github.com/xolambda/telOS",
+   "text": "Check this out",
    "fork": false,
    "stars": 0,
    "language": "C",
