@@ -1,7 +1,7 @@
 {
- "key": "9af83a08",
+ "key": "5acbe333",
  "stars": 0,
- "contributions": 27,
+ "contributions": 28,
  "repos": 3,
  "followers": 0,
  "languages": [
@@ -129,22 +129,22 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 21,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 2,
-  "longest": 2
+  "current": 3,
+  "longest": 3
  },
  "pins": [],
  "all": [
   {
    "name": "telOS",
    "url": "https://github.com/xolambda/telOS",
-   "text": "Check this out",
+   "text": "A tiny 32-bit operating system, written from scratch in C and assembly.",
    "fork": false,
    "stars": 0,
    "language": "C",
